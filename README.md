@@ -44,7 +44,7 @@ music_genre_classifier/
 
 ### ✅ 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/music_genre_classifier.git
+git clone https://github.com/Vigneshwar-Raipally/music_genre_classifier.git
 cd music_genre_classifier
 ````
 
